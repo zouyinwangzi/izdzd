@@ -9,7 +9,7 @@
 
 <channel>
 	<title>izdzd</title>
-	<atom:link href="/feed/?simply_static_page=2568" rel="self" type="application/rss+xml" />
+	<atom:link href="/feed/?simply_static_page=3271" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
 	<description></description>
 	<lastBuildDate>Sat, 29 Jul 2023 02:13:17 +0000</lastBuildDate>
@@ -29,10 +29,10 @@
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">/?p=1</guid>
 
-					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or  &#8230;<p class="read-more"> <a class="" href="/uncategorized/hello-world/"> <span class="screen-reader-text">Hello world!</span> Read More &#187;</a></p>]]></description>
-										<content:encoded><![CDATA[
-<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
-]]></content:encoded>
+					<description><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or  &#8230;</p>
+<p class="read-more"> <a class="" href="/uncategorized/hello-world/"> <span class="screen-reader-text">Hello world!</span> Read More &#187;</a></p>
+<p>The post <a href="/uncategorized/hello-world/">Hello world!</a> first appeared on <a href="./../index.html">izdzd</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p><p>The post <a href="/uncategorized/hello-world/">Hello world!</a> first appeared on <a href="./../index.html">izdzd</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>/uncategorized/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
